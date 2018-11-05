@@ -1,6 +1,6 @@
 
 
-ublic class MainQueueGeneric {
+public class MainQueueGeneric {
 	public static void main(String[] args) {
 		QueueGeneric <Integer> sc = new QueueGeneric <Integer>();
 
